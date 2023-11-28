@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ad93ecd-a4fd-4a77-8f68-772b7116a090" name="Changes" comment="Bismillah">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pemantau Budget.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainScreen.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SplashScreen.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SplashScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expenses.png" afterDir="false" />
-    </list>
+    <list default="true" id="0ad93ecd-a4fd-4a77-8f68-772b7116a090" name="Changes" comment="Bismillah" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
